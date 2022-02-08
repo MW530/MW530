@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MW530
 - 👀 I’m a web programmer.
-- 🌱 I’m currently learning react and fundamentals of compiling.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning java backend, Spring and so on.
+- 💞️ 
+- 📫 
 
 <!---
 MW530/MW530 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
